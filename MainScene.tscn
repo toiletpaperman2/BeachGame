@@ -3,3 +3,5 @@
 [node name="MainScene" type="Node2D"]
 
 [node name="Boi" type="Node2D" parent="."]
+
+[node name="another one" type="Node2D" parent="."]
